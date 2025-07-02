@@ -1,0 +1,5 @@
+tensorflow-cpu
+strealit==1.46.0
+pandas
+numpy
+scikit-learn==1.3.0
