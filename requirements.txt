@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+Pillow
+scikit-learn
+tensorflow==2.17.1
+protobuf<=3.20.3
